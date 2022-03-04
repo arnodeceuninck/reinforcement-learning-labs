@@ -1,0 +1,11 @@
+pandas == 1.0.0
+matplotlib == 2.2.5
+gym == 0.15.4
+gym[atari]
+numpy
+opencv-python
+torch
+gin
+tb-nightly
+torchvision
+jupyter
